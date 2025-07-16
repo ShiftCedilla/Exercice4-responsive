@@ -1,2 +1,2 @@
-# Exercice4-responsive
-Responsive exercice
+# Exercice-3
+Maquette de typographie avec plusieurs pages.
